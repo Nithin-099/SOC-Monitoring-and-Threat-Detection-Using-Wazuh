@@ -1,0 +1,1 @@
+# SOC-Monitoring-and-Threat-Detection-Using-Wazuh
