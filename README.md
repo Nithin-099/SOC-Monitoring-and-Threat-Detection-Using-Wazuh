@@ -206,32 +206,59 @@ Covers for each attack:
 ## Repository Structure
 
 SOC-Monitoring-and-Threat-Detection/
+
 │
+
 ├── architecture/
+
 │ └── lab-architecture.md
+
 │
+
 ├── detections/
+
 │ ├── local_rules.xml
+
 │ ├── detection-summary.md
+
 │ └── mitre-attack-coverage.md
+
 │
+
 ├── incident-analysis/
+
 │ ├── attack-timeline.md
+
 │ └── IR-Playbook.md
+
 │
+
 ├── reports/
+
 │ └── security-monitoring-summary.md
+
 │
+
 ├── screenshots/
+
 │ ├── 1-setup/
+
 │ ├── 2-attacks/
+
 │ ├── 3-detections/
+
 │ └── 4-mitre/
+
 │
+
 ├── setup/
+
 │ └── installation-guide.md
+
 │
+
 └── README.md
+
 
 
 ---
