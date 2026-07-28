@@ -128,7 +128,7 @@ fired within 3 seconds of attack simulation.
 
 ## MITRE ATT&CK Coverage
 
-![ATT&CK Heatmap](screenshots/4-mitre/mitre-heatmap-full.png)
+![ATT&CK Heatmap](screenshots/mitre/mitre-heatmap.png)
 
 | Tactic | Technique | ID | Detected |
 |--------|-----------|-----|---------|
