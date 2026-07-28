@@ -22,6 +22,7 @@ detections to close those gaps.
 
 Windows 11 (NITHIN) Ubuntu Server
 ───────────────── ──────────────
+
 Sysmon → Wazuh Manager
 Wazuh Agent Wazuh Indexer
 Atomic Red Team Wazuh Dashboard
@@ -178,6 +179,7 @@ Collected and analyzed:
 
 METRIC RESULT
 ───────────────────── ──────
+
 Attacks Simulated 5
 Detection Rate 100%
 Custom Rules Written 5
