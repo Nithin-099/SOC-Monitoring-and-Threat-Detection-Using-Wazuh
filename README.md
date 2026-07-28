@@ -21,6 +21,7 @@ detections to close those gaps.
 ## Lab Architecture
 
 Windows 11 (NITHIN) Ubuntu Server
+
 ───────────────── ──────────────
 
 Sysmon → Wazuh Manager
@@ -182,6 +183,7 @@ Collected and analyzed:
 ## Key Findings
 
 METRIC RESULT
+
 ───────────────────── ──────
 
 Attacks Simulated 5
