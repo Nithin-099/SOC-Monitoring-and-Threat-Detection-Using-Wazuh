@@ -24,8 +24,11 @@ Windows 11 (NITHIN) Ubuntu Server
 ───────────────── ──────────────
 
 Sysmon → Wazuh Manager
+
 Wazuh Agent Wazuh Indexer
+
 Atomic Red Team Wazuh Dashboard
+
 Attack Simulation 192.168.56.101
 
 
@@ -155,9 +158,10 @@ fired 3 times detecting T1059.001 in
 real time with full MITRE mapping.
 
 ### 3. User Account Creation Detection
-```powershell
+
+powershell
 net user TestUser Password@123 /add
-```
+
 Wazuh detected and logged event immediately
 generating security alert for investigation.
 
@@ -181,12 +185,19 @@ METRIC RESULT
 ───────────────────── ──────
 
 Attacks Simulated 5
+
 Detection Rate 100%
+
 Custom Rules Written 5
+
 Rules Fired 1 confirmed
+
 Detection Gaps Found 3
+
 Gaps Closed 3
+
 AV Blocks 1
+
 Critical Alerts 4
 
 
@@ -195,7 +206,7 @@ Critical Alerts 4
 ## Incident Response Documentation
 
 Full IR Playbook available in:
-`incident-analysis/IR-Playbook.md`
+![IR-playbook](incident-analysis/IR-Playbook.md)
 
 Covers for each attack:
 - Detection evidence
